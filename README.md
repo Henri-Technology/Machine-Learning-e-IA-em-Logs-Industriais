@@ -30,6 +30,8 @@ O projeto passa por todo o ciclo de um cientista de dados:
 * **Visualização de Dados:** Matplotlib & Streamlit
 * **Inteligência Artificial:** Google AI Studio API (Gemini Pro)
 
+* **OBSERVAÇÃO:** Para exercutar as chamadas e prompts para a IA funcionar, é necessário adicionar um arquivo .env ao seu projeto com a chave da sua API do Google AI Studio
+
 ## 📁 Estrutura do Projeto
 
 ```text
